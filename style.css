@@ -9,7 +9,13 @@ h1 {
     color: rgb(78, 22, 64);
     font-size: 50px;
 }
-
+.imga {
+    height: 250px;
+    width:auto;
+    border: 2px;
+    margin: auto;
+    display: block;
+}
 .two {
     display: block;
     margin: auto;
@@ -18,4 +24,8 @@ h1 {
     height: 100px;
     width: 200px;
     background-color: rgb(87, 173, 30);
+}
+.recipe {
+    color: black;
+    text-decoration-line:line-through;
 }
